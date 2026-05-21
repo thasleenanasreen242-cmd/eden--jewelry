@@ -6,10 +6,8 @@ body {
 }
 
 /* HERO */
-.hero {
-  background: linear-gradient(to right, #d4af37, #f5e6a3);
-  text-align: center;
-  padding: 80px 20px;
+background: #cdb4db;
+color: #fff;
 }
 
 .hero h1 {
